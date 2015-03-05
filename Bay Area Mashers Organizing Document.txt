@@ -1,8 +1,8 @@
 Bay Area Mashers Organizing Document
 
-On this first day of January 1995, we do hereby form and establish the legal entity Bay Area Mashers. Our name is the Bay Area Mashers (BAM). This formation of BAM incorporates the March 2, 1993 Articles of Organization and the March 5, 1993 Mission Statement of the Bay Area Mashers Brew Club and all ammendments adopted by the club. Club membership is currently established at $20/year due and payable on July 1, 1995 and every twelve months thereafter. Upon dissolution of the club, all assets will be dispersed to the American Heart and Lung Association or other non-profit organization as agreed upon by member vote.
+On this first day of January 1995, we do hereby form and establish the legal entity Bay Area Mashers. Our name is the Bay Area Mashers (BAM). This formation of BAM incorporates the March 2, 1993 Articles of Organization and the March 5, 1993 Mission Statement of the Bay Area Mashers Brew Club and all amendments adopted by the club. Club membership is currently established at $20/year due and payable on July 1, 1995 and every twelve months thereafter. Upon dissolution of the club, all assets will be dispersed to the American Heart and Lung Association or other non-profit organization as agreed upon by member vote.
 
-Any time the BAM announces a meeting in the monthly newsletter, a quorum will be deemed established at that meeting regardless of the attendance. The membership delegates that the President and/or the Executive Committee have the authority to make any and all administrative decisions on the behalf of BAM. This is stated especially with regard to payment of club expenses and the signing of contracts and/or agreements that BAM enters into. In the case that the club members do not agree with the direction or decisions of any club officer, they shall have the right to demand a vote of confidence. If 67% of the quorum express no confidence, then that officer shall step down and be replaced by a duly elected member.
+Any time the BAM hold a regular monthly meeting, a quorum will be deemed established at that meeting regardless of the attendance. The membership delegates that the President and/or the Executive Committee have the authority to make any and all administrative decisions on the behalf of BAM. This is stated especially with regard to payment of club expenses and the signing of contracts and/or agreements that BAM enters into. In the case that the club members do not agree with the direction or decisions of any club officer, they shall have the right to demand a vote of confidence. If 67% of the quorum express no confidence, then that officer shall step down and be replaced by a duly elected member.
 
 Our club purpose remains that stated in the Mission Statement: The Bay Area Mashers Brew Club establishes itself to promote and foster the art and science of brewing quality beer in the home. Quality brewing depends on skillful application of procedure, creativity of purpose, and freshness and quality of raw ingredients. Toward this end, the club’s mission will embody the following Cannons:
 
@@ -11,24 +11,22 @@ Our club purpose remains that stated in the Mission Statement: The Bay Area Mash
     To emphasize the use of All-Grain procedures, and encourage all members to develop these skills;
     To bring diverse people together, to promote both technical and social interactions;
     To hold regular monthly meetings to provide a forum for the interaction between members;
-    To supply a monthly Newsletter to keep members informed about club events and other pertinent information;
+    To supply an online mailing list to keep members informed about club events and other pertinent information;
     To run intra-club competitions to both aid in brewing better beers, and develop judging skills following the American Home brewers Association (AHA) and the Home Wine and Beer Trade Association standards established in the Beer Judge Certification Program;
     To encourage members to enter their beers in AHA sponsored competitions to both aid in beer evaluation, and to build the standing of the club within the home brewing community;
-    To run all club business in accordance with the principles of democracy, with an elected Executive Committee (President, Treasurer, Editor, Technical Secretary, Social Secretary and Style of the Month Secretary) guiding the decision making process, with protocols established in the club’s Articles of Organization;
+    To run all club business in accordance with the principles of democracy, with an elected Executive Committee (President, Vice President, Treasurer and Secretary) guiding the decision making process, with protocols established in the club’s Articles of Organization;
     To hold all members accountable to a general code of ethics and behavior, including, but not limited to, honesty, responsible drinking, and equitable contributions to the club.
 
 The basic structure of our club will remain that expressed in the Articles of Organization:
 
-Article I         Elections shall be conducted semiannually for the following offices collectively known as the executive committee:
+Article I         Elections shall be conducted annually for the following offices collectively known as the executive committee:
 
     President
-    Editor
+    Vice President
     Treasurer
-    Social Events Coordinator
-    Technical Events Coordinator
-    Style of the Month Coordinator
+    Secretary
 
-Article II         Duties of the executive committee:
+Article II        Duties of the executive committee:
 
     Act as a steering body for the club, that is, to guide the club into activities that support the mission statement.
     Draft members to tasks such as those needed to fulfill the mission statement.
@@ -36,21 +34,18 @@ Article II         Duties of the executive committee:
         If the executive committee finds anyone in serious violation of our code of ethics they shall, to the best of their ability, take appropriate action (such as calling and paying fare for a cab for a driver too intoxicated to safely operate a motor vehicle) to protect the liability of the club and its members from any resulting legal action. They shall inform the transgressor that a repeated violation will subject him to eviction from the club.
         Repeat of unethical conduct shall be cause to revoke membership. If such action is taken, the revocation may be appealed to the full membership.
 
-Article        III Duties of the President:
+Article III       Duties of the President:
 
     Conduct regular club meetings.
     Preside over executive committee meetings, conferences or special actions.
     Present initiatives and ideas for club activities.
     Delegate club business to appropriate officers.
     Speak on behalf of the club and/or executive committee for any actions decided upon under ethical review.
-    Write one article per month for the newsletter delineating the state of the club message.
 
-Article IV         Duties of the Editor:
+Article IV        Duties of the Vice President:
 
-    Produce the monthly newsletter and other club communications.
-    Publish special club journals.
-    Mail the newsletter to members and prospective members.
-    Maintain a log of previous club publications and future club projects.
+    Support the efforts of the President.
+    In the absence of the President, preside over executive committee meetings, conferences or special actions.
 
 Article V         Duties of the Treasurer:
 
@@ -58,40 +53,34 @@ Article V         Duties of the Treasurer:
     Keep an accounting of club moneys.
     Report the status of the club fund and the club’s expected expenses to the president.
     Collect and disburse funds for routine and special club business.
-    Report the status of the treasury in the newsletter semiannually.
 
-Article VI         Duties of the Social Events Coordinator:
+Article VI        Duties of the Secretary:
 
-    Generate ideas for special, social or party events.
-    Coordinate or delegate members to implement club activities and programs.
-    Write one article per month for the newsletter to announce the status of upcoming social events.
+    Either attend all monthly member meetings or delegate a member to act as Secretary at any monthly meeting which the Secretary can not attend.
+    Take notes at the monthly member meetings and share those notes with the entire membership after the monthly meeting electronically.
 
-Article VII         Duties of the Technical Events Coordinator:
+Article VII       Appointment of Officers
 
-    Generate ideas for activities and events during the general meetings once per month.
-    Coordinate or delegate members to implement the normal monthly club activities and programs.
-    Write one article per month for the newsletter to announce the status of upcoming monthly club events.
+    The executive committee will appoint and dismiss all officer positions which are not part of the executive committee.
+    These officer positions may include Social Coordinators, Technical Coordinators, Style of the Quarter Coordinators, Webmaster and any other roles deemed necessary by the executive committee.
+    The executive committee will consider the following principles when appointing members to the officer positions:
+        Officer roles should be filled by members best suited to the role.
+        Members appointed to officer roles should be deemed likely to fill the role for a minimum of 6 months by the executive committee and, upon leaving the role, be willing to assist in finding a replacement.
+        Members well suited to a role should be allowed to continue filling that role indefinitely.
+        If the role necessitates that only one person fill the role at a time and another well suited members expresses interest in filling the role the executive committee should give preference to new members in order to encourage diversity in the leadership of the club.
 
-Article VIII         Duties of the members:
+Article VIII      Duties of the members:
 
     Act in an ethical and non abusive manner.
     Participate in club chores necessary to the presentation of club activities, especially in so far as that needed to provide and compensate for their stake in the benefits.
     Normally, bring two beers to each meeting they attend.
     Share in the camaraderie of the club and join in the individual quest for the perfect brew.
 
-Article IX         Ethical Code:
+Article IX        Ethical Code:
 
     Excessive drinking is a hazard of the craft that brings us together. This is an undesirable and avoidable occurrence. Therefore, let it be resolved that no member shall drink to excess as defined by the Department of Motor Vehicles. Further let it be resolved that no member shall coerce, entice or otherwise willingly suffer such abusive consumption on the part of any other member.
     Honesty and respect are valued principles to any society and integral to the trust we put in our fellow members. No member shall steal, be violent or engage in behavior that is disrespectful to others or themselves.
     This club is as much a cooperative as it is an educational and social instrument. Our strength is dependent upon the individual contributions that members give to the club. Each member will endeavor to pull his own weight by paying dues on time and by doing chores in proportion to the net benefits they receive from the club.
-
-Article X         Duties of the Style of the Month Coordinator: (June 1993)
-
-    Conduct the Style of the Month (SOM) tasting event at each club meeting.
-    Tabulate and condense SOM data sheets.
-    Maintain book of recent judging forms for a few months following a tasting.
-    Distribute old SOM forms to judge-members.
-    Write an article for newsletter each month on the most recent SOM results.
 
 The Bay Area Mashers is hereby formed by the adoption of this instrument.
 
@@ -100,3 +89,7 @@ Signed     Dated
 Tim Underwood, President
 
 Bernie Rooney, Treasurer
+
+Ammended March 2015
+
+Signed     Dated
